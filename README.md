@@ -15,9 +15,11 @@ Stephen Gould Shipping & Receiving Manager/Calendar (Web application)
   about issues/changes, late shipments, etc. Has been a tremendous success & greatly increased S&R accountability and traceability.
   
   For a brief demo, click below:
+  
 [![Link to Calendar demo video](https://img.youtube.com/vi/JgYEQMiKT60/0.jpg)](https://www.youtube.com/watch?v=JgYEQMiKT60)
 
 MIDAS
+
   iOS application developed in a group of 4 using scrum, Software Engineering practices & design/documentation. Aims to consolidate expense reporting
   & personal finance tracking within a single software solution. Allows users to track, categorize & view personal expense data, as well as create
   events and connect with other users to manage/plan finances for events or groups. Applications include personal finance management, event planning,
@@ -26,9 +28,11 @@ MIDAS
  
   
 Stephen Gould Rate Tracker (Web application)
+
   Designed and developed independently in coordination with SGI employees. Currently in early beta testing at SGI. Will be used to track & monitor rate
   production data, audit production over time, and generate reports for all products produced/packed in-house.
   
 Stephen Gould CorruQuote (Web application)
+
   Designed and developed independently in coordination with SGI employees. Currently in early development & testing. Will be used to generate quotes of
   all in-house products, all of which rely an an inherently nebulous and varied quoting process. Will reduce quoting labor costs substantially. 
