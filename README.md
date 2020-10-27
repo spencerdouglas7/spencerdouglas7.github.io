@@ -26,6 +26,7 @@ Seeking full-time post-grad employment beginning Jan 2022, as well as internship
   shared expense management (roommates, couples, etc.). Project was a great success despite the many obstacles encountered during production, including
   COVID-19 sending everyone home a mere week after completing our first sprint!
  
+ <b>Demo coming soon.</b>
   
 ### Stephen Gould Rate Tracker (Web application)
 
