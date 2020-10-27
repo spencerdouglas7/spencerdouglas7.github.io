@@ -14,13 +14,13 @@ Seeking full-time post-grad employment beginning Jan 2022, as well as internship
   shipments. Provides ability to schedule/track trucks, edit info about current appointments, automatically email employees
   about issues/changes, late shipments, etc. Has been a tremendous success & greatly increased S&R accountability and traceability.
   
-  ##### For a brief demo, click below:
+  #### For a brief demo, click below:
   
 [![Link to Calendar demo video](https://img.youtube.com/vi/JgYEQMiKT60/0.jpg)](https://www.youtube.com/watch?v=JgYEQMiKT60)
 
-### MIDAS
+### MIDAS (iOS application)
 
-  iOS application developed in a group of 4 using scrum, Software Engineering practices & design/documentation. Aims to consolidate expense reporting
+  Developed in a group of 4 using scrum, Software Engineering practices & design/documentation. Aims to consolidate expense reporting
   & personal finance tracking within a single software solution. Allows users to track, categorize & view personal expense data, as well as create
   events and connect with other users to manage/plan finances for events or groups. Applications include personal finance management, event planning,
   shared expense management (roommates, couples, etc.). Project was a great success despite the many obstacles encountered during production, including
