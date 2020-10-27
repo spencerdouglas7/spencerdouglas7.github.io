@@ -14,7 +14,7 @@ Seeking full-time post-grad employment beginning Jan 2022, as well as internship
   shipments. Provides ability to schedule/track trucks, edit info about current appointments, automatically email employees
   about issues/changes, late shipments, etc. Has been a tremendous success & greatly increased S&R accountability and traceability.
   
-  #### For a brief demo, click below:
+  <b>For a brief demo, click below:</b>
   
 [![Link to Calendar demo video](https://img.youtube.com/vi/JgYEQMiKT60/0.jpg)](https://www.youtube.com/watch?v=JgYEQMiKT60)
 
