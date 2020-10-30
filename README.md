@@ -6,7 +6,7 @@ Seeking full-time post-grad employment beginning Jan 2022, as well as internship
 
 "Perfection is not attainable, but if we chase perfection, we can catch excellence." -Vince Lombardi 
 
-# Some of my current work (demos not all present)
+# Some of my current/recent work (demos not all present)
 
 ### Stephen Gould Shipping & Receiving Manager/Calendar (Web application)
   Designed and developed independently in coordination with SGI employees. Created during my time as a Software Engineering Intern at Stephen Gould
@@ -23,7 +23,7 @@ Seeking full-time post-grad employment beginning Jan 2022, as well as internship
   Developed in a group of 4 using scrum over 3 1 month sprints employing Software Engineering practices & design/documentation. Aims to consolidate business expense reporting
   & personal finance tracking within a single convenient mobile software solution. Allows users to track, categorize & view personal expense data, as well as create
   events and connect with other users to manage/plan finances for events or groups. Applications include personal finance management, business expense reporting, event planning,
-  shared expense management (roommates, couples, etc.). Project was a great success despite the many obstacles encountered during production, including
+  shared expense management (roommates, couples, etc.). Has convenience features such as automatic receipt scanning using OCR as well as data visualization to view Project was a great success despite the many obstacles encountered during production, including
   COVID-19 sending everyone home a mere week after completing our first sprint!
  
  <b>Demo coming soon.</b>
