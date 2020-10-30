@@ -6,7 +6,7 @@ Seeking full-time post-grad employment beginning Jan 2022, as well as internship
 
 "Perfection is not attainable, but if we chase perfection, we can catch excellence." -Vince Lombardi 
 
-# Some of my current/recent work (demos not all present)
+# Some of my current/recent work (demos not all present for privacy reasons)
 
 ### Stephen Gould Shipping & Receiving Manager/Calendar (Web application)
   Designed and developed independently in coordination with SGI employees. Created during my time as a Software Engineering Intern at Stephen Gould
