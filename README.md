@@ -15,7 +15,7 @@ Seeking full-time post-grad employment beginning Jan 2022, as well as internship
   about issues/changes, late shipments, etc. Has been a tremendous success & greatly increased S&R accountability and traceability.
   
   <b>For a brief demo, click below:</b>
-![Landing Page](https://ibb.co/5Tvvjsj)
+![Landing Page](https://i.ibb.co/1ZKKXRX/Screen-Shot-2020-11-08-at-9-50-32-PM.png)
 [![Link to Calendar demo video](https://img.youtube.com/vi/JgYEQMiKT60/0.jpg)](https://www.youtube.com/watch?v=JgYEQMiKT60)
 
 ### MIDAS (iOS application)
