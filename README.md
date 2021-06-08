@@ -2,7 +2,7 @@
 
 4th year Purdue University Computer Science and Mathematics double major graduating Dec. 2021.
 Software Engineering and Computer Security focused with proven ability as a developer and a leader.
-Seeking full-time post-grad employment beginning Jan 2022, as well as internship opportunities for Summer 2021.
+Seeking full-time post-grad employment beginning Jan 2022.
 
 "Perfection is not attainable, but if we chase perfection, we can catch excellence." -Vince Lombardi 
 
