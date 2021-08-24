@@ -52,7 +52,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
 -->
 [![Link to Calendar demo video](https://img.youtube.com/vi/JgYEQMiKT60/0.jpg)](https://www.youtube.com/watch?v=JgYEQMiKT60)
 
-### MIDAS (iOS application)
+### Personal, Group, and Business Expense Reporting(iOS application)
 
   Developed in a group of 4 using scrum over 3 1 month sprints employing Software Engineering practices & design/documentation. Aims to consolidate business expense reporting
   & personal finance tracking within a single convenient mobile software solution. Allows users to track, categorize & view personal expense data, as well as create
