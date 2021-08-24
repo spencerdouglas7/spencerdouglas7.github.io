@@ -31,6 +31,6 @@ Seeking full-time post-grad employment beginning Jan 2022.
   
 ### Stephen Gould Rate Tracker (Web application)
 
-  Designed and developed independently in coordination with SGI employees. Currently in early beta testing at SGI. Will be used to track & monitor rate
+  Designed and developed independently in coordination with SGI employees. Currently in use at SGI. Used to track & monitor rate
   production data, audit production over time, and generate reports for products produced/packed in-house.
   
