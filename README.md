@@ -23,6 +23,14 @@ Seeking full-time post-grad employment beginning Jan 2022.
 
 # Some of my current/recent work
 
+### Real-time Cryptocurrency Price and Portfolio Tracker (Web application)
+  Currently working independently on the full stack of a cryptocurrency price and portfolio tracker web application. 
+  <br>
+  Real-time price data is scraped from the web using the Beautiful Soup Python library, which is then represented and charted in the application using Chart.js.
+  <br>
+  Users can view pricing data and trends for the top cryptocurrencies, save 'favorite' tokens to track, and add their own purchases/sales for tracking of   portfolio value and profit over time.
+  <br>
+  User system maintained via SQL database with salted and SHA-256 hashed passwords.
 
 ### Milliman Pre-call Planning Tool (Web application)
   Full stack development with Salesforce and Veeva CRM integration in a team of 2. Created during my time as a Software Engineering Intern at Milliman.
