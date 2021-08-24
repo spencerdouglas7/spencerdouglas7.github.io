@@ -13,7 +13,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
 
 # References
 
-# Some of my current/recent work (demos not all present for privacy reasons)
+# Some of my current/recent work
 
 
 ### Milliman Pre-call Planning Tool (Web application)
