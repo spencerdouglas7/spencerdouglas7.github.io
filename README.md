@@ -8,6 +8,14 @@ Seeking full-time post-grad employment beginning Jan 2022.
 
 # Some of my current/recent work (demos not all present for privacy reasons)
 
+
+### Milliman Pre-call Planning Tool (Web application)
+  Full stack development with Salesforce and Veeva CRM integration in a team of 2. Created during my time as a Software Engineering Intern at Milliman.
+
+  Constructed a web application using AngularJS, Javascript, HTML/CSS, and SQL which vastly streamlines the access, viewing, and visualization of healthcare data via   curated insights.
+
+  Constructed a data pipeline to leverage proprietary data sources; data is robustly parsed and ingested into the cloud via an asynchronous web client capable of       dispatching approximately a million records per minute via RESTful API to stand up our database.
+
 ### Stephen Gould Shipping & Receiving Manager/Calendar (Web application)
   Designed and developed independently in coordination with SGI employees. Created during my time as a Software Engineering Intern at Stephen Gould
   Indianapolis. Currently in use as SGI's primary means of scheduling, tracking, and coordinating all its deliveries & 
