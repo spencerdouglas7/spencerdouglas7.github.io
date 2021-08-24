@@ -17,7 +17,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
   <br>
   Jacob oversaw and consulted with me and my partner on the development the Pre-call Planning Web App discussed below. He can be reached through either of the methods above.
   ### Brandon Barnhart, Project Manager @ Stephen Gould 
-  Mobile: 317.995.0114 | Email: bbmbarnhart@stephengould.com
+  Mobile: 317.995.0114 | Email: bmbarnhart@stephengould.com
   <br>
   Brandon oversaw and advised me on the development of the Shipping & Receiving Manager Web App discussed below. He can be reached through either of the methods above.
 
