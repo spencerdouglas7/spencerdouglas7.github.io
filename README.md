@@ -8,6 +8,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
 
 # Other Links
   <a href = "https://www.linkedin.com/in/sawdouglas/">LinkedIn</a>
+  <a href = "mailto:sawdouglas7@gmail.com">Email Me</a>
 
 # References
 
