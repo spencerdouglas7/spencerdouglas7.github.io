@@ -30,7 +30,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
   <br>
   Users can view pricing data and trends for the top cryptocurrencies, save 'favorite' tokens to track, and add their own purchases/sales for tracking of   portfolio value and profit over time.
   <br>
-  User system maintained via SQL database with salted and SHA-256 hashed passwords.
+  User system maintained via SQL database with 128-bit-salted and SHA-256 hashed passwords.
 
 ### Milliman Pre-call Planning Tool (Web application)
   Full stack development with Salesforce and Veeva CRM integration in a team of 2. Created during my time as a Software Engineering Intern at Milliman.
