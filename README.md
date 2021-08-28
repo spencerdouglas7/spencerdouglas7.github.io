@@ -26,7 +26,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
 ### Real-time Cryptocurrency Price and Portfolio Tracker (Web application)
   Currently working independently on the full stack of a cryptocurrency price and portfolio tracker web application. 
   <br>
-  Real-time price data is scraped from the web using the Beautiful Soup Python library, which is then represented and charted in the application using Chart.js.
+  Real-time price data is scraped from the web using the Beautiful Soup Python library and served via RESTful API built with Flask, which is then represented and charted in the application using Chart.js.
   <br>
   Users can view pricing data and trends for the top cryptocurrencies, save 'favorite' tokens to track, and add their own purchases/sales for tracking of   portfolio value and profit over time.
   <br>
