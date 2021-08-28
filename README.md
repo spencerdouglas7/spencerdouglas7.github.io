@@ -1,4 +1,4 @@
-# Spencer Douglas, Purdue Computer Science & Mathematics Dec. 2021
+# Spencer Douglas, Software Engineer
 
 Computer Science and Mathematics double major graduating Dec. 2021.
 Software Engineering and Computer Security focused with proven ability as a developer and a leader.
