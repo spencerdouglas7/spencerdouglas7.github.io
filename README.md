@@ -23,7 +23,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
 
 # Some of my current/recent work
 
-### Real-time Cryptocurrency Price and Portfolio Tracker (Web application)
+### Real-time Cryptocurrency Price and Portfolio Tracker (Web application - Full stack)
   Currently working independently on the full stack of a cryptocurrency price and portfolio tracker web application built with Angular. 
   <br><br>
   Real-time price data is scraped from the web using the Beautiful Soup Python library and served via RESTful API built with Flask, which is then represented and charted in the application using Chart.js.
