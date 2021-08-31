@@ -7,7 +7,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
 "Perfection is not attainable, but if we chase perfection, we can catch excellence." -Vince Lombardi 
 
 # Contact Me
-  <a href = "https://www.linkedin.com/in/sawdouglas/"><img src = "https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/linkedin.svg"></a>
+  <a href = "https://www.linkedin.com/in/sawdouglas/"><img alt="My LinkedIn" style = "max-height: 2vh;" src = "https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/linkedin.svg"></a>
   <br>
   <a href = "mailto:sawdouglas7@gmail.com">Email Me: sawdouglas7@gmail.com</a>
 
