@@ -35,7 +35,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
 ### Milliman Pre-call Planning Tool (Web application)
   Full stack development with Salesforce and Veeva CRM integration in a team of 2. Created during my time as a Software Engineering Intern at Milliman.
 
-  Constructed a web application using AngularJS, Javascript, HTML/CSS, and SQL which vastly streamlines the access, viewing, and visualization of healthcare data via   curated insights.
+  Constructed a web application using Angular, Javascript, HTML/CSS, and SQL which vastly streamlines the access, viewing, and visualization of healthcare data via   curated insights.
 
   Constructed a data pipeline to leverage proprietary data sources; data is robustly parsed and ingested into the cloud via an asynchronous web client capable of       dispatching approximately a million records per minute via RESTful API to stand up our database.
 
