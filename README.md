@@ -24,11 +24,11 @@ Seeking full-time post-grad employment beginning Jan 2022.
 </ul> 
 # References
   <h3>Jacob Hahn, Project Manager @ Milliman </h3>
-  Mobile: 812.568.8943 | Email: jacob.hahn@milliman.com
+  Mobile: 812.568.8943 <br> Email: jacob.hahn@milliman.com
   <br><br>
   Jacob oversaw and consulted with me and my partner on the development the Pre-call Planning Web App discussed below. He can be reached through either of the methods a  bove.
   <h3>Brandon Barnhart, Project Manager @ Stephen Gould </h3>
-  Mobile: 317.995.0114 | Email: bmbarnhart@stephengould.com
+  Mobile: 317.995.0114 <br> Email: bmbarnhart@stephengould.com
   <br><br>
   Brandon oversaw and advised me on the development of the Shipping & Receiving Manager Web App discussed below. He can be reached through either of the methods above.
 
