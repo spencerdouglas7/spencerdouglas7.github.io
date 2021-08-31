@@ -7,16 +7,12 @@ Seeking full-time post-grad employment beginning Jan 2022.
 "Perfection is not attainable, but if we chase perfection, we can catch excellence." -Vince Lombardi 
 
 # Contact Me
-  <div style = "display: flex; justify-content: center;">
-    <div "display: flex; flex-direction: column; justify-content: center;">
-      <a href = "https://www.linkedin.com/in/sawdouglas/">
-        <img alt="My LinkedIn" style = "max-width: 10%;" src = "https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/linkedin.svg">
-      </a>
-      <div>/in/sawdouglas</div>
-    </div>
-    <div "display: flex; flex-direction: column; justify-content: center;">
-      <a href = "mailto:sawdouglas7@gmail.com">Email Me: sawdouglas7@gmail.com</a>
-    </div>
+<div style = "display: flex; justify-content: center;" >
+  <a href = "https://www.linkedin.com/in/sawdouglas/">
+    LinkedIn
+    <img alt="My LinkedIn" style = "max-width: 1em;" src = "https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/linkedin.svg">
+  </a>
+  <a href = "mailto:sawdouglas7@gmail.com">Email Me: sawdouglas7@gmail.com</a>
   </div>
 # References
   <h3>Jacob Hahn, Project Manager @ Milliman </h3>
