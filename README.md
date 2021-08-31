@@ -35,7 +35,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
   <h3>Darren Pitcher, (Then) Chief Intelligence Officer @ Goodrich Quality Theaters </h3>
   Mobile: 616.821.9711  <br> Email: darrenpitcher@hotmail.com
   <br><br>
-  Prior to company sale due to covid, Darren worked for Goodrich Quality Theaters as their CIO. I worked directly under him as a mobile IT intern servicing states of Indiana and Illinois. I conducted server oversight, documentation, and equipment replacement. 
+  Prior to company sale due to covid, Darren worked for Goodrich Quality Theaters as their CIO. I worked directly under him as a mobile IT intern servicing the states of Indiana and Illinois. I conducted company server oversight, documentation, and equipment replacement. 
 
 # Some of my current/recent work
 
