@@ -18,7 +18,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
   <li>
     <a style = "display: flex;" href = "mailto:sawdouglas7@gmail.com">
       <img alt="My LinkedIn" style = "max-width: 1.5em; padding-right: 1em;" src = "https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/envelope.svg">
-      Email Me: sawdouglas7@gmail.com
+      sawdouglas7@gmail.com
     </a>
   </li>
 </ul> 
