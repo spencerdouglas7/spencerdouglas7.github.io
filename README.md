@@ -18,7 +18,6 @@ Seeking full-time post-grad employment beginning Jan 2022.
       <a href = "mailto:sawdouglas7@gmail.com">Email Me: sawdouglas7@gmail.com</a>
     </div>
   </div>
-</div>
 # References
   <h3>Jacob Hahn, Project Manager @ Milliman </h3>
   Mobile: 812.568.8943 | Email: jacob.hahn@milliman.com
