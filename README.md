@@ -9,11 +9,18 @@ Seeking full-time post-grad employment beginning Jan 2022.
 # Contact Me
 
   <ul style="list-style-type:none;">
-  <li><a style = "display: flex;" href = "https://www.linkedin.com/in/sawdouglas/">
-    LinkedIn
-    <img alt="My LinkedIn" style = "max-width: 1em;" src = "https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/linkedin.svg">
-  </a></li>
-  <li><a style = "display: flex;" href = "mailto:sawdouglas7@gmail.com">Email Me: sawdouglas7@gmail.com<img alt="My LinkedIn" style = "max-width: 1em;" src = "https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/linkedin.svg"></a></li>
+  <li>
+    <a style = "display: flex;" href = "https://www.linkedin.com/in/sawdouglas/">
+      <img alt="My LinkedIn" style = "max-width: 1em;" src = "https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/linkedin.svg">
+      LinkedIn
+    </a>
+  </li>
+  <li>
+    <a style = "display: flex;" href = "mailto:sawdouglas7@gmail.com">
+      <img alt="My LinkedIn" style = "max-width: 1em;" src = "https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/envelope.svg">
+      Email Me: sawdouglas7@gmail.com
+    </a>
+  </li>
 </ul> 
 # References
   <h3>Jacob Hahn, Project Manager @ Milliman </h3>
