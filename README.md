@@ -11,13 +11,13 @@ Seeking full-time post-grad employment beginning Jan 2022.
   <ul style="list-style-type:none;">
   <li>
     <a style = "display: flex;" href = "https://www.linkedin.com/in/sawdouglas/">
-      <img alt="My LinkedIn" style = "max-width: 1em; padding-right: 1.5em;" src = "https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/linkedin.svg">
+      <img alt="My LinkedIn" style = "max-width: 1.5em; padding-right: 1em;" src = "https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/linkedin.svg">
       LinkedIn
     </a>
   </li>
   <li>
     <a style = "display: flex;" href = "mailto:sawdouglas7@gmail.com">
-      <img alt="My LinkedIn" style = "max-width: 1em; padding-right: 1.5em;" src = "https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/envelope.svg">
+      <img alt="My LinkedIn" style = "max-width: 1.5em; padding-right: 1em;" src = "https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/envelope.svg">
       Email Me: sawdouglas7@gmail.com
     </a>
   </li>
