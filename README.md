@@ -59,10 +59,4 @@ Seeking full-time post-grad employment beginning Jan 2022.
   events and connect with other users to manage/plan finances for events or groups. Applications include personal finance management, business expense reporting, event planning,
   shared expense management (roommates, couples, etc.). Has convenience features such as automatic receipt scanning using OCR as well as data visualization to view hands-on insights. Project was a great success despite the many obstacles encountered during production, including
   COVID-19 sending everyone home a mere week after completing our first sprint!
- 
-  
-### Stephen Gould Rate Tracker (Web application)
-
-  Designed and developed independently in coordination with SGI employees. Currently in use at SGI. Used to track & monitor rate
-  production data, audit production over time, and generate reports for products produced/packed in-house.
   
