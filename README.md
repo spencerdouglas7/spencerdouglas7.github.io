@@ -54,7 +54,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
 
 ### Personal, Group, and Business Expense Reporting(iOS application)
 
-  Developed in a group of 4 using scrum over 3 1 month sprints employing Software Engineering practices & design/documentation. Aims to consolidate business expense reporting
+  Developed in a group of 4 using scrum over 3 month-long sprints employing Software Engineering practices & design/documentation. Aims to consolidate business expense reporting
   & personal finance tracking within a single convenient mobile software solution. Allows users to track, categorize & view personal expense data, as well as create
   events and connect with other users to manage/plan finances for events or groups. Applications include personal finance management, business expense reporting, event planning,
   shared expense management (roommates, couples, etc.). Has convenience features such as automatic receipt scanning using OCR as well as data visualization to view hands-on insights. Project was a great success despite the many obstacles encountered during production, including
