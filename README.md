@@ -59,7 +59,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
 
 <b>Source private to protect millions of private client healthcare data. Please enjoy a few screenshots containing fake data instead...</b>
 
-<div style = "display: flex; justify-content: space-evenly; max-height: 35vh; max-width: 100vw; padding-left: 3vw; padding-right: 3vw;">
+<div style = "display: flex; justify-content: space-between; max-width: 100vw;">
   <img src ="https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/execsumm.png" style = "aspect-ratio: 19 / 11; max-width: 33%">
   <img src ="https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/detailtop.png" style = "aspect-ratio: 19 / 11; max-width: 33%">
   <img src ="https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/detailbottom.png" style = "aspect-ratio: 19 / 11; max-width: 33%">
