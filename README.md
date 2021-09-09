@@ -44,18 +44,26 @@ Seeking full-time post-grad employment beginning Jan 2022.
   <br><br>
   Real-time price data is scraped from the web using the Beautiful Soup Python library and served via RESTful API built with Flask, which is then represented and charted in the application using Chart.js.
   <br><br>
-  Users can view pricing data and trends for the top cryptocurrencies, save 'favorite' tokens to track, and add their own purchases/sales for tracking of   portfolio value and profit/loss over time.
+  Users can view pricing data and trends for the top cryptocurrencies, save 'favorite' tokens to track, and add their own purchases/sales for tracking of portfolio value and profit/loss over time.
   <br><br>
   User system maintained via SQL database with 128-bit-salted and SHA-256 hashed passwords.
 
-<b>Currently editing a demo video--check back shortly!</b>
+<b>[Sep. 9th] Currently editing a demo video--check back shortly!</b>
 
 ### Milliman Pre-call Planning Tool (Web application)
   Full stack development with Salesforce and Veeva CRM integration in a team of 2. Created during my time as a Software Engineering Intern at Milliman.
 
-  Constructed a web application using Angular, Javascript, HTML/CSS, and SQL which vastly streamlines the access, viewing, and visualization of healthcare data via   curated insights.
+  Constructed a web application using Angular, Javascript, HTML/CSS, and SQL which vastly streamlines the access, viewing, and visualization of healthcare data via   curated insights. Users can browse any number of doctors and insurance plans to receive insights into market makeup, prescription habits, top plans by doctor, top doctors by plans, non-prescribers, etc...
 
   Constructed a data pipeline to leverage proprietary data sources; data is robustly parsed and ingested into the cloud via an asynchronous web client capable of       dispatching approximately a million records per minute via RESTful API to stand up our database.
+
+<b>Source private to protect millions of private client healthcare data. Please enjoy a few screenshots containing fake data instead...</b>
+
+<div style = "display: flex; justify-content: space-evenly; max-height: 15vh;">
+  <img src ="https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/execsumm.png">
+  <img src ="https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/detailtop.png">
+  <img src ="https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/detailbottom.png">
+</div>
 
 ### Stephen Gould Shipping & Receiving Manager/Calendar (Web application)
   Designed and developed independently in coordination with SGI employees. Created during my time as a Software Engineering Intern at Stephen Gould
