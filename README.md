@@ -60,7 +60,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
 <b>Source private to protect millions of private client healthcare data. Please enjoy a few screenshots containing fake data instead...</b>
 
 <div style = "display: flex; justify-content: space-between; max-width: 100vw;">
-  <a href = "https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/execsumm.png" ><img src ="https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/execsumm.png" style = "aspect-ratio: 19 / 11;></a>
+  <a href = "https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/execsumm.png"><img src ="https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/execsumm.png" style = "aspect-ratio: 19 / 11;"></a>
   <a href = "https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/detailtop.png" ><img src ="https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/detailtop.png" style = "aspect-ratio: 19 / 11;"></a>
   <a href = "https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/detailbottom.png" ><img src ="https://raw.githubusercontent.com/spencerdouglas7/spencerdouglas7.github.io/main/detailbottom.png" style = "aspect-ratio: 19 / 11;"></a>
 </div>
