@@ -48,7 +48,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
   <br><br>
   User system maintained via SQL database with 128-bit-salted and SHA-256 hashed passwords.
 
-<b>[Sep. 9th] Currently editing a demo video--check back shortly!</b>
+<b>[Sep. 19th] Currently editing a demo video--check back shortly!</b>
 
 ### Milliman Pre-call Planning Tool (Web application)
   Full stack development with Salesforce and Veeva CRM integration in a team of 2. Created during my time as a Software Engineering Intern at Milliman.
