@@ -26,7 +26,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
   <h3>Jacob Hahn, Project Manager @ Milliman </h3>
   Mobile: 812.568.8943 <br> Email: jacob.hahn@milliman.com
   <br><br>
-  Jacob oversaw and consulted with me and my partner on the development the Pre-call Planning Web App discussed below. He can be reached through either of the methods a  bove.
+  Jacob oversaw and consulted with me and my partner on the development the Pre-call Planning Web App discussed below. He can be reached through either of the methods above.
   <h3>Brandon Barnhart, Project Manager @ Stephen Gould </h3>
   Mobile: 317.995.0114 <br> Email: bmbarnhart@stephengould.com
   <br><br>
@@ -78,7 +78,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
 -->
 [![Link to Calendar demo video](https://img.youtube.com/vi/JgYEQMiKT60/0.jpg)](https://www.youtube.com/watch?v=JgYEQMiKT60)
 
-### Personal, Group, and Business Expense Reporting(iOS application)
+### Personal, Group, and Business Expense Reporting (iOS application)
 
   Developed in a group of 4 using scrum over 3 month-long sprints employing Software Engineering practices & design/documentation. Aims to consolidate business expense reporting
   & personal finance tracking within a single convenient mobile software solution. Allows users to track, categorize & view personal expense data, as well as create
