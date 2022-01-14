@@ -67,7 +67,7 @@ Seeking full-time post-grad employment beginning Jan 2022.
 
 ### Stephen Gould Shipping & Receiving Manager/Calendar (Web application)
   Designed and developed independently in coordination with SGI employees. Created during my time as a Software Engineering Intern at Stephen Gould
-  Indianapolis. Currently in use as SGI's primary means of scheduling, tracking, and coordinating all its deliveries & 
+  Indianapolis. Used as a means of scheduling, tracking, and communicating in regard to all deliveries & 
   shipments. Provides ability to schedule/track trucks, edit info about current appointments, automatically email employees
   about issues/changes, late shipments, etc. Has been a tremendous success & greatly increased S&R accountability and traceability.
   
